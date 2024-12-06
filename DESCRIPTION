@@ -7,7 +7,8 @@ Title: R Koans
 Description: A package for learning R through test-driven development
 Depends:
     testthat,
-    stringr
+    stringr,
+    devtools
 Suggests:
     roxygen2
 Collate:
